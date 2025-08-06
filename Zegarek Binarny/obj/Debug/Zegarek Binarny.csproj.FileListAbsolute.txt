@@ -1,0 +1,21 @@
+C:\Users\chist.LAPTOP-0BJPVPQP\OneDrive\Рабочий стол\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\bin\Debug\Zegarek Binarny.exe.config
+C:\Users\chist.LAPTOP-0BJPVPQP\OneDrive\Рабочий стол\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\bin\Debug\Zegarek Binarny.exe
+C:\Users\chist.LAPTOP-0BJPVPQP\OneDrive\Рабочий стол\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\bin\Debug\Zegarek Binarny.pdb
+C:\Users\chist.LAPTOP-0BJPVPQP\OneDrive\Рабочий стол\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek Binarny.csproj.AssemblyReference.cache
+C:\Users\chist.LAPTOP-0BJPVPQP\OneDrive\Рабочий стол\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek_Binarny.Form1.resources
+C:\Users\chist.LAPTOP-0BJPVPQP\OneDrive\Рабочий стол\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek_Binarny.Properties.Resources.resources
+C:\Users\chist.LAPTOP-0BJPVPQP\OneDrive\Рабочий стол\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek Binarny.csproj.GenerateResource.cache
+C:\Users\chist.LAPTOP-0BJPVPQP\OneDrive\Рабочий стол\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek Binarny.csproj.CoreCompileInputs.cache
+C:\Users\chist.LAPTOP-0BJPVPQP\OneDrive\Рабочий стол\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek Binarny.exe
+C:\Users\chist.LAPTOP-0BJPVPQP\OneDrive\Рабочий стол\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek Binarny.pdb
+E:\Work\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\bin\Debug\Zegarek Binarny.exe.config
+E:\Work\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\bin\Debug\Zegarek Binarny.exe
+E:\Work\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\bin\Debug\Zegarek Binarny.pdb
+E:\Work\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek Binarny.csproj.AssemblyReference.cache
+E:\Work\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek_Binarny.Form1.resources
+E:\Work\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek_Binarny.Properties.Resources.resources
+E:\Work\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek Binarny.csproj.GenerateResource.cache
+E:\Work\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek Binarny.csproj.CoreCompileInputs.cache
+E:\Work\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek Binarny.exe
+E:\Work\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek Binarny.pdb
+E:\Work\Zegarek Bin\Zegarek Binarny\Zegarek Binarny\obj\Debug\Zegarek Binarny.exe.config
